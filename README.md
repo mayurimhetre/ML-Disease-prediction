@@ -14,11 +14,13 @@ Dataset did not have any missing values but outliers are present in age, trestbp
 
 **3.MinMaxSacler Vs SatandardScaler**
 
-SatandardScaler performed really well
+StandardScaler performed really well
 
 **4.Test Data Analysis:**
 
 age, trestbps,chol,thalach columns are having outliers.
+
+**output data is stored in test_data_analysis.csv file**
 
 
 
