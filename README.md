@@ -1,5 +1,8 @@
 # ML-Disease-prediction
 
+Kaggle:
+
+https://www.kaggle.com/c/aiml-model-ops/data
 
 Dataset did not have any missing values but outliers are present in age, trestbps,chol,oldpeak,thalach columns 
 
